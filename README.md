@@ -4,8 +4,6 @@ Focused on creating projects with front-end technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,vite,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
 
-![Carina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfcmeireles&theme=dark&show_icons=true)
-
 <!--
 **cfcmeireles/cfcmeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
