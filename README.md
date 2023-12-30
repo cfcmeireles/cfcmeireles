@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Carina 👋
 I am an aspiring developer based in Lisbon, Portugal
 
 Focused on creating projects with front-end technologies
@@ -6,6 +6,8 @@ Focused on creating projects with front-end technologies
 ### Tech stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,vite,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
+
+📫 How to reach me: carinacmeireles@gmail.com
 
 <!--
 **cfcmeireles/cfcmeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
