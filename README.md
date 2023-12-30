@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am an aspiring developer based in Lisbon, Portugal. 
+
 Focused on creating projects with front-end technologies
 
 Tech stack:
