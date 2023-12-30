@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an aspiring developer based in Lisbon, Portugal. 
 Focused on creating projects with front-end technologies
-
+Tech stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,vite,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
 
 <!--
