@@ -3,7 +3,7 @@ I am an aspiring developer based in Lisbon, Portugal
 
 ### Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,vite,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,vite,react,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
 
 📫 How to reach me: carinacmeireles@gmail.com
 
