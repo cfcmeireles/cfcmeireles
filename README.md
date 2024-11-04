@@ -1,5 +1,5 @@
 ### Hi there, I'm Carina 👋
-I am an aspiring developer based in Lisbon, Portugal
+I'm a Junior Software Engineer @ Pipedrive
 
 ### Tech stack:
 
