@@ -1,5 +1,4 @@
 ### Hi there, I'm Carina 👋
-I'm a Junior Software Engineer @ Pipedrive
 
 ### Tech stack:
 
