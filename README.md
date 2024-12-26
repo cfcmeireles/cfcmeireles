@@ -2,7 +2,7 @@
 
 ### Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,vite,react,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,vite,react,vue,nuxtjs,git,github,vscode,netlify)](https://skillicons.dev)
 
 📫 How to reach me: carinacmeireles@gmail.com
 
